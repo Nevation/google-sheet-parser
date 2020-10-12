@@ -1,0 +1,24 @@
+{
+  "name": "google-sheet-parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nevation/google-sheet-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nevation/google-sheet-parser/issues"
+  },
+  "homepage": "https://github.com/Nevation/google-sheet-parser#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "google-spreadsheet": "^3.0.13",
+    "googleapis": "^39.2.0"
+  }
+}
